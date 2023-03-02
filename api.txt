@@ -1,0 +1,11 @@
+IMDB:-      https://imdb-api.com/api
+
+MOVIE:-    https://imdb-api.com/en/API/SearchMovie/k_x27qyalf/moviename
+
+
+
+SERIES:-    https://imdb-api.com/en/API/SearchSeries/k_x27qyalf/moviename
+
+MOVIEPLAY:-   https://vidclouds.us/imdbid.html
+
+SERIESPLAY:- https://vidclouds.us/tv.php?imdb=$imdb&season=$season&episode=$episode
